@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:badges-->
 
 #### Pennylane Code Camp 2022
-<a target="_blank" href="https://verified.sertifier.com/en/verify/21253526623615/?ref=email"><img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/21253526623615.png" alt="Explorer"></a>
-<a target="_blank" href="https://verified.sertifier.com/en/verify/19274804620417/?ref=email"><img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/19274804620417.png" alt="Adventurer"></a>
-<a target="_blank" href="https://verified.sertifier.com/en/verify/42083630209008/?ref=email"><img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/42083630209008.png" alt="Pioneer"></a>
+<a target="_blank" href="https://verified.sertifier.com/en/verify/21253526623615/?ref=email"><img src="https://github.com/MoritzWillmann/MoritzWillmann/blob/main/21253526623615.png" width=150 alt="Explorer"></a>
+<a target="_blank" href="https://verified.sertifier.com/en/verify/19274804620417/?ref=email"><img src="https://github.com/MoritzWillmann/MoritzWillmann/blob/main/19274804620417.png" width=150 alt="Adventurer"></a>
+<a target="_blank" href="https://verified.sertifier.com/en/verify/42083630209008/?ref=email"><img src="https://github.com/MoritzWillmann/MoritzWillmann/blob/main/42083630209008.png" width=150 alt="Pioneer"></a>
